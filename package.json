@@ -1,0 +1,14 @@
+{
+  "private:": "true",
+  "name": "anti-rkn",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "ip-subnet-calculator": "^1.1.8",
+    "lodash.flatten": "^4.4.0",
+    "lodash.get": "^4.4.2",
+    "node-fetch": "^2.1.2"
+  }
+}
